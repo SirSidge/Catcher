@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://c231ksjwkxvsy"
+path="res://.godot/imported/Crab.aseprite-f3da6179ddc20fa6f603abee135737ec.res"
+
+[deps]
+
+source_file="res://Assets/Player/Crab.aseprite"
+dest_files=["res://.godot/imported/Crab.aseprite-f3da6179ddc20fa6f603abee135737ec.res"]
+
+[params]
+
