@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://b0qdexd4guhmo"]
 
-[ext_resource type="Script" path="res://Assets/Background/player.gd" id="1_gi4ci"]
+[ext_resource type="Script" path="res://Scenes/player.gd" id="1_gi4ci"]
 [ext_resource type="Texture2D" uid="uid://bi6pg0anvb4rm" path="res://Assets/Player/Crab.png" id="1_q8mp2"]
 
 [sub_resource type="Animation" id="Animation_t37wf"]
