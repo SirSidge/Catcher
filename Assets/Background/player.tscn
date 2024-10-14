@@ -50,6 +50,7 @@ texture = ExtResource("1_q8mp2")
 hframes = 2
 vframes = 2
 metadata/_aseprite_wizard_interface_config_ = {
+"animation_section": false,
 "output_section": true,
 "pending_changes": {}
 }
@@ -72,6 +73,7 @@ root_node = NodePath("../Sprite2D")
 libraries = {
 "": SubResource("AnimationLibrary_c03yd")
 }
+speed_scale = 1.903
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
 polygon = PackedVector2Array(3, 8, 6, 8, 8, 6, 8, -6, 6, -8, -6, -8, -8, -6, -8, 6, -6, 8, 3, 8)
